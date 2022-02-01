@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @M1CHELTTV
-- 👀 I’m interested in ... FiveM Developing
-- 🌱 I’m currently learning ... Lua , JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hola soy M1CHEL soy Fundador de 
+La Noria Rp  https://discord.gg/SCVCcFGnxH y de 
+BLACKICE leaks https://discord.gg/MKUAg7vJrY 
 
-<!---
-M1CHELTTV/M1CHELTTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+se poco de programacion estoy iniciandome si alguien esta interesado en ayudarme que me contaste a mi discord M1CHEL#8323
